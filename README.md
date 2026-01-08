@@ -1,6 +1,6 @@
 # Bright Data's Premium Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/premium-proxy) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/premium-proxy) 
 
 ## Overview
 Bright Data의 [Premium Proxies](https://brightdata.co.kr/solutions/premium-proxy)는 데이터 スクレイピング 요구에 대해 타의 추종을 불허하는 속도, 신뢰성 및 성능을 제공합니다.
